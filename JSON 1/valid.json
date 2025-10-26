@@ -1,0 +1,12 @@
+[
+    {
+"name": "TikTok",
+"year_of_creation": 2016,
+"creator": "ByteDance",
+"is_age_restricted": true, 
+"services": ["short video","live video"],
+"users": 1.58,
+"average_usage_per_day": "28 minutes",
+"country_of_origin": "China"
+}
+]
