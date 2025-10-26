@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SocialMediaApps>
+    <TikTok average_usage_per_day="28 minutes" goal_of_the_app="spread creativity and passions" >
+        <year_of_creation>2016<year_of_creation/>
+        <users>1.58 mld<users/>
+        <creator>ByteDance<creator/>
+        <country_of_origin>China<country_of_origin/>
+    <TikTok/>
+    <Facebooka verage_usage_per_day="30 minutes" goal_of_the_app="connect and meet new people">
+        <year_of_creation>2004<year_of_creation/>
+        <users>3.07 mld<users/>
+        <creator>Mark Zuckerberg<creator/>
+        <country_of_origin>USA<country_of_origin/>
+    <Facebook/>
+    <Instagram verage_usage_per_day="23 minutes" goal_of_the_app="easier way to share peoples' photos">
+        <year_of_creation>2010<year_of_creation/>
+        <users>3 mld<users/>
+        <creator>Kevin Systrom and Mike Krieger<creator/>
+        <country_of_origin>USA<country_of_origin/>
+    <Facebook/>
+    <Snapchat verage_usage_per_day="31 minutes" goal_of_the_app="connect with people and share experiences">
+        <year_of_creation>2011<year_of_creation/>
+        <users>469 mln<users/>
+        <creator>Evan Spiegel<creator/>
+        <country_of_origin>USA<country_of_origin/>
+    <Snapchat/>
+    <WhatsApp verage_usage_per_day="33.5 minutes" goal_of_the_app="connect and meet new people">
+        <year_of_creation>2009<year_of_creation/>
+        <users>3 mld<users/>
+        <creator>WhatsApp Inc.<creator/>
+        <country_of_origin>USA<country_of_origin/>
+    <WhatsApp/>
+    <YouTube verage_usage_per_day="48.7 minutes" goal_of_the_app="spread knowledge and wisdom">
+        <year_of_creation>2005<year_of_creation/>
+        <users>2.53 mld<users/>
+        <creator>Jawed Karim<creator/>
+        <country_of_origin>USA<country_of_origin/>
+    <YouTube/>
